@@ -1,7 +1,7 @@
 # Explore about your phone sensors!
 
 What it does?
-Built a simple interactive web page using html and css where you can click on the icons and learn about the sensors working behind the scenes.
+A simple interactive web page built using html and css which provides details about the sensors working within the phone upon clicking the icon.
 
 Technologies used:
 HTML and CSS
